@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/frontendDoctor/static/css/main.7a2f6da8.css",
+    "main.js": "/frontendDoctor/static/js/main.659ac261.js",
+    "static/js/453.555adca5.chunk.js": "/frontendDoctor/static/js/453.555adca5.chunk.js",
+    "index.html": "/frontendDoctor/index.html",
+    "main.7a2f6da8.css.map": "/frontendDoctor/static/css/main.7a2f6da8.css.map",
+    "main.659ac261.js.map": "/frontendDoctor/static/js/main.659ac261.js.map",
+    "453.555adca5.chunk.js.map": "/frontendDoctor/static/js/453.555adca5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a2f6da8.css",
+    "static/js/main.659ac261.js"
+  ]
+}
